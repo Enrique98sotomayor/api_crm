@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "joseph",
+      "empresa": "Pornhub",
+      "email": "correo@correo.com",
+      "telefono": "895685632",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "joseph actualizado",
+      "empresa": "aea",
+      "email": "correo@correo.com",
+      "telefono": "123213123",
+      "notas": "weqweqweqw",
+      "id": 2
+    },
+    {
+      "nombre": "Mijael actualizado",
+      "empresa": "Pepones",
+      "email": "mijael@mija.com",
+      "telefono": "12321321",
+      "notas": "cliente solicita servidor",
+      "id": 5
+    }
+  ]
+}
